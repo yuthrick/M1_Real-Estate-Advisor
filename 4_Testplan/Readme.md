@@ -14,7 +14,7 @@
 | LP03 |	Buyer has an option to exit |	Integer 4 |	Exits	| Pass |	Requirement |
 | LP04 |	Buyer can see total number of properties available |	Integer 3 |	2 |	2 |	Requirement |
 | LP05 |	Seller can register his property |	Integer 1, Char name, Long int cmunber, Char ptype, int ext, char place, char country |	Exits after entering details |	Pass |	Requirement |
-|LP06 |	 Seller can register another property |	char y |	Opens register | module	Pass |	Requirement |
+|LP06 |	 Seller can register another property |	char y |	Opens register module |	Pass |	Requirement |
 |LP07 |	Seller can remove property | char name |	Removes from file |	Pass |	Requirement |
 |LP08 |	Seller can modify if there are errors while entering information |	Char name |	Opens modify module |	Pass |	Requirement |
 | LP09 | seller can modify another |	char y |	Modifies another information |	Pass |	Requirement |
