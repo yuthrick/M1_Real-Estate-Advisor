@@ -1,14 +1,14 @@
 ## Test Plan
 
 ## High Level Test Plan
-| --- | ----- | ------ | ------ | ----- | ------ |
 | ID |	Description |	Expected I/P |	Expected O/P |	Actual O/P | Type of Test |
+| --- | ----- | ------ | ------ | ----- | ------ |
 | HP01 |	Sellers interface |	Character s |	Enters to sellers module| Pass |	Requirement |
 | HP02 |	Buyers interface |	Character b |	Enters to buyers module	Pass |	Requirement |
 
 ## Low Level Test Plan
-| --- | ---------- | --------- | ------ | ----- | ----- | 
 | ID |	Description |	Expected I/P |	Expected O/P | Actual O/P |	Type of Test |
+| --- | ---------- | --------- | ------ | ----- | ----- | 
 | LP01 | Buyer viewing all the properties available |	Integer 1 |	Views all properties and exits |	Pass |	Requirement |
 | LP02 |	Buyer views by type of property |	Integer 2 |	Views by type and asks to view another type |	Pass | 	Requirement |
 | LP03 |	Buyer has an option to exit |	Integer 4 |	Exits	| Pass |	Requirement |
