@@ -72,6 +72,8 @@
 
 [![Unit Testing - Unity](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/C-build.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/C-build.yml)
 
+[![cppcheck-action](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/create%20cppcheck.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/create%20cppcheck.yml)
+
 ## Code Inspector
 ![Screenshot (77)](https://user-images.githubusercontent.com/62828197/153440013-352733fe-c646-4b34-8fb1-e0e5e2a3c7ef.png)
 
