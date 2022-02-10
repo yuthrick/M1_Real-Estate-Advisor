@@ -70,8 +70,6 @@
 ## SDLC
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/14ec34075e674a32a80a4dcb6a5481fa)](https://www.codacy.com/gh/yuthrick/M1_Real-Estate-Advisor_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yuthrick/M1_Real-Estate-Advisor_Util&amp;utm_campaign=Badge_Grade)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/14ec34075e674a32a80a4dcb6a5481fa)](https://www.codacy.com/gh/yuthrick/M1_Real-Estate-Advisor_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yuthrick/M1_Real-Estate-Advisor_Util&amp;utm_campaign=Badge_Grade)
-
 
 ## Code Inspector
 ![Screenshot (77)](https://user-images.githubusercontent.com/62828197/153440013-352733fe-c646-4b34-8fb1-e0e5e2a3c7ef.png)
