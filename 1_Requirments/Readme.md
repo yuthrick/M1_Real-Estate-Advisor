@@ -74,6 +74,8 @@
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Tulashi12/M1_Financial-Calculator_Util/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Tulashi12/M1_Financial-Calculator_Util/actions/workflows/cppcheck.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/Tulashi12/M1_Financial-Calculator_Util/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Tulashi12/M1_Financial-Calculator_Util/actions/workflows/gitinspector.yml)
+
 
 ## Code Inspector
 ![Screenshot (77)](https://user-images.githubusercontent.com/62828197/153440013-352733fe-c646-4b34-8fb1-e0e5e2a3c7ef.png)
