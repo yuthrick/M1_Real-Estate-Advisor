@@ -67,6 +67,10 @@
 
 * Buyers can view all the properties or asserts available or can also view by the type of property, Whereas sellers need to make their property available by adding specifications and can also modify them. If the property is sold out, seller can remove them.
 
+## SDLC
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/14ec34075e674a32a80a4dcb6a5481fa)](https://www.codacy.com/gh/yuthrick/M1_Real-Estate-Advisor_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yuthrick/M1_Real-Estate-Advisor_Util&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/14ec34075e674a32a80a4dcb6a5481fa)](https://www.codacy.com/gh/yuthrick/M1_Real-Estate-Advisor_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yuthrick/M1_Real-Estate-Advisor_Util&amp;utm_campaign=Badge_Grade)
+
 ## Detail Requirements:
 
 ## High Level Requirements
