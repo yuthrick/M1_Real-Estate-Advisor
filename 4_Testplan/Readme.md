@@ -20,6 +20,15 @@
 | LP09 | seller can modify another |	char y |	Modifies another information |	Pass |	Requirement |
 |LP10 |	Seller can exit |Integer 4 |	Exits from module|	Pass |	Requirement |
 
+
+## usage of unity frame work
+
+* The Unity Test Framework (UTF) enables Unity users to test their code in both Edit Mode and Play Mode, and also on target platforms such as Standalone, Android, iOS, etc.
+
+* UTF uses a Unity integration of NUnit library, which is an open-source unit testing library for .Net languages.
+
+* It is possible to extend the Unity Test Framework (UTF) in many ways, for custom workflows for your projects and for other packages to build on top of UTF.
+
 ## Best Practices
  - [x] Checked all the possibilities of output
  - [x] Mentioned all the inputs for better understanding
