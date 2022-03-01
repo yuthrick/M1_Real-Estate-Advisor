@@ -67,17 +67,6 @@
 
 * Buyers can view all the properties or asserts available or can also view by the type of property, Whereas sellers need to make their property available by adding specifications and can also modify them. If the property is sold out, seller can remove them.
 
-## SDLC
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/14ec34075e674a32a80a4dcb6a5481fa)](https://www.codacy.com/gh/yuthrick/M1_Real-Estate-Advisor_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yuthrick/M1_Real-Estate-Advisor_Util&amp;utm_campaign=Badge_Grade)
-
-[![Unit Testing - Unity](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/C-build.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/C-build.yml)
-
-[![cppcheck-action](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/create%20cppcheck.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/create%20cppcheck.yml)
- 
- [![Valgrind Analysis](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/create%20valgrind.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/create%20valgrind.yml)
- 
- [![Git Inspector](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/Update%20c-build.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/Update%20c-build.yml)
-
 ## Code Inspector
 ![Screenshot (77)](https://user-images.githubusercontent.com/62828197/153440013-352733fe-c646-4b34-8fb1-e0e5e2a3c7ef.png)
 
