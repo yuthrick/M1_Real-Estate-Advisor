@@ -10,3 +10,14 @@ Mini Project "Real-Estate-Advisor"
 | 2_Design |	Documents specifying design details |
 | 3_Implementation | All code and documentation |
 | 4_Test_plan | Documents with test plans and procedures |
+
+## SDLC
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/14ec34075e674a32a80a4dcb6a5481fa)](https://www.codacy.com/gh/yuthrick/M1_Real-Estate-Advisor_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yuthrick/M1_Real-Estate-Advisor_Util&amp;utm_campaign=Badge_Grade)
+
+[![Unit Testing - Unity](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/C-build.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/C-build.yml)
+
+[![cppcheck-action](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/create%20cppcheck.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/create%20cppcheck.yml)
+ 
+ [![Valgrind Analysis](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/create%20valgrind.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/create%20valgrind.yml)
+ 
+ [![Git Inspector](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/Update%20c-build.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/Update%20c-build.yml)
