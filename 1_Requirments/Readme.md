@@ -102,4 +102,9 @@
 | LLR06 |	Buyers can view the asserts by the type of assert they want to buy |	HLR02 |	Implemented |
 | LLR07 |	Buyers have an option to view how many number of properties are available to them |	HLR02 |	Implemented |
 | LLR08	| Both buyers and sellers has an option to exit from the interface |	HLR01 | HLR02 |	Implemented |
-
+## Methods to be used
+* Used functions to decrease dependency on main function.
+* Used structures and arrays and sorting algorithms to accept the inputs from user and store the values which helped in creating easy design of raliway management system.
+* Printf statements have been placed only wherever necessary to avoid confusions.
+* Created header file so that the fuctions can be used else where ever required without any difficulty.
+* Unit testing is done to avoid any computational errors.
