@@ -19,3 +19,9 @@
 |LP08 |	Seller can modify if there are errors while entering information |	Char name |	Opens modify module |	Pass |	Requirement |
 | LP09 | seller can modify another |	char y |	Modifies another information |	Pass |	Requirement |
 |LP10 |	Seller can exit |Integer 4 |	Exits from module|	Pass |	Requirement |
+
+## Best Practices
+ - [x] Checked all the possibilities of output
+ - [x] Mentioned all the inputs for better understanding
+ - [x] Presented in tabular form for easy understanding
+ - [x] Both High level and low level Test plans are shown
