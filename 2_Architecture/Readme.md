@@ -17,3 +17,8 @@
 ## Activity Diagram
 ![activity_Diagram](https://user-images.githubusercontent.com/62828197/153254843-3e104ad2-0c61-4be9-a96b-51f027a4c3e3.jpg)
 
+## Best Methods Followed
+* Exact Mapping of code to avoid confusions
+* Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
+* Followed the exact symbols to make the understanding easier
+* Detailed explanation in Low level Behavioural and Structural Diagrams
