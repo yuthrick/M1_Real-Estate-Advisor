@@ -16,6 +16,8 @@ Mini Project "Real-Estate-Advisor"
 
 [![Build Windows](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/Build%20Windows.yml)
 
+[![CI](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/Ci.yml/badge.svg)](https://github.com/yuthrick/M1_Real-Estate-Advisor_Util/actions/workflows/Ci.yml)
+
 ## code inspector
 ![Screenshot (77)](https://user-images.githubusercontent.com/62828197/153444154-aec1f074-ff1a-4335-b021-aae6fc96ec83.png)
 
